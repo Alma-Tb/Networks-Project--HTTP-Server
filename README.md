@@ -1,4 +1,4 @@
-# Networks-Project--HTTP-Server
+# Networks-Project HTTP-Server
  Implemented part of the HTTP protocol.  
  
 * Threading (multiple clients)  
